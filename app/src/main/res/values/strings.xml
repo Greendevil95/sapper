@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sapper</string>
+    <string name="hello">Hello dog!</string>
+</resources>
